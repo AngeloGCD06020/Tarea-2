@@ -1,0 +1,34 @@
+Tarea 08 - Model Info
+Fecha: 2026-11-03
+Unity: 6000.3.14f1
+Escena de inicio: Assets/Scenes/Tarea 08.unity
+Aplicacion: com.shinj.lolsuperman, version 0.1.0 (1)
+Plataforma: Android ARM64, IL2CPP, min SDK 29, target SDK 36
+
+Resultado final: APK generado y verificado.
+Archivo: Entrega/Tarea08/Tarea08-ModelInfo.apk
+Bytes: 48712349
+SHA256: AD4E7717618CCCDDB6980E0CB9126D2C35121D68A847CCC078ED18E5A0F39397
+
+Validaciones:
+- 33 comprobaciones de comportamiento aprobadas dentro de Unity.
+- Gradle 8.13 assembleRelease: BUILD SUCCESSFUL, 124 tareas.
+- Android apksigner: firma v2 verificada, 1 firmante.
+- Integridad ZIP: ninguna entrada corrupta.
+- lib/arm64-v8a/libil2cpp.so presente.
+- Escena Tarea 08 incluida en globalgamemanagers.
+- Permiso CAMERA y requisito android.hardware.camera.ar incluidos.
+
+Incidencia de herramientas:
+El empaquetado interno de BuildPipeline fallo por el error de Java
+"Unable to establish loopback connection". No se presenta ese intento como
+BuildPipeline.Succeeded. El APK final se genero ejecutando Gradle por separado
+en Library/Bee/Android/Prj/IL2CPP/Gradle, sobre el codigo y datos generados por
+Unity. Se uso un directorio temporal de sockets propio del trabajo mediante
+JAVA_TOOL_OPTIONS, solo en el proceso de empaquetado; sin cambios globales.
+Los registros completos estan en Builds/Tarea08/ y no se publican.
+
+Limite de validacion:
+No habia un dispositivo Android conectado. No se ha comprobado la instalacion,
+el permiso de camara ni el seguimiento fisico ARCore en un telefono.
+El video incluido es una demostracion de editor con seguimiento simulado.
