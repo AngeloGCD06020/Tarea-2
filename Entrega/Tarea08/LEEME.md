@@ -12,6 +12,6 @@ El APK utiliza cámara y ARCore en Android 10 o posterior, ARM64. Mostrar las im
 
 El video está rotulado **DEMOSTRACIÓN DE EDITOR · SEGUIMIENTO SIMULADO**. Muestra los modelos, el panel y la selección por raycast reales, con eventos de seguimiento simulados. Falta probar el APK y grabar el seguimiento con la cámara de un teléfono; no había uno conectado.
 
-Repositorio: **shinjekyag/Repositorio**. Para la plataforma escolar, adjuntar el APK y una grabación de AR real, y escribir el nombre/enlace del repositorio en el comentario solicitado. No se ha enviado nada a la plataforma escolar.
+Repositorio: **[shinjekyag/Tarea-2](https://github.com/shinjekyag/Tarea-2)**. Para la plataforma escolar, adjuntar el APK y una grabación de AR real, y escribir el nombre/enlace del repositorio en el comentario solicitado. No se ha enviado nada a la plataforma escolar.
 
 Ver [guía de implementación](../../TAREA-08.md).

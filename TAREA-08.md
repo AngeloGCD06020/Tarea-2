@@ -41,7 +41,7 @@ El proceso interno de empaquetado de Unity presentó `Unable to establish loopba
 
 ## Repositorio y entrega
 
-Repositorio configurado en este proyecto: **shinjekyag/Repositorio**.
+Repositorio configurado en este proyecto: **[shinjekyag/Tarea-2](https://github.com/shinjekyag/Tarea-2)**.
 
 La actividad también solicita escribir el nombre del repositorio como comentario y adjuntar el APK y un video en la plataforma escolar. Este archivo documenta qué entregar; no realiza envíos ni publica comentarios en esa plataforma.
 
