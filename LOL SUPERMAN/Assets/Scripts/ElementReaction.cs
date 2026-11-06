@@ -16,4 +16,6 @@ public class ElementReaction : ScriptableObject
     {
         return (a == elementA && b == elementB) || (a == elementB && == elementA);
     }
+    //a
+
 }
