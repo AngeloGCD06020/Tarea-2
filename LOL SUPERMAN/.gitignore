@@ -72,6 +72,7 @@ mono_crash.*
 
 # Builds
 *.apk
+!/Entrega/Tarea08/Tarea08-ModelInfo.apk
 *.aab
 *.unitypackage
 *.unitypackage.meta
@@ -104,3 +105,9 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Repositorios independientes guardados dentro de esta carpeta.
+# Se conservan localmente; no forman parte del proyecto LOL SUPERMAN.
+/Proyecto_Colavorativo_RA/
+/Tarea-2/
+/TareasRA/

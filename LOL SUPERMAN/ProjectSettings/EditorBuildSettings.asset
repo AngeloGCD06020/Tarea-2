@@ -5,10 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tarea 08.unity
+    guid: ad7927e07e4344548a93ab6a028a842e
   - enabled: 0
     path: Assets/Scenes/ARImagetracking.unity
     guid: 36e5c8e3cd8295d4395d4f3f2190a2fd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARImageTracking2.unity
     guid: 306071e857c88fe4d9a7aedc457d616a
   m_configObjects:

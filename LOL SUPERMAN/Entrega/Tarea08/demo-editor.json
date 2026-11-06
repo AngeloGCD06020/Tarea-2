@@ -1,0 +1,67 @@
+{
+    "simulatedTracking": true,
+    "framesPerSecond": 12,
+    "frameCount": 300,
+    "stages": [
+        {
+            "stage": "01  ·  Ficha original: ningún modelo seleccionado",
+            "activeModels": 0,
+            "selectedModel": "Ninguno",
+            "panelTitle": "Selecciona un modelo"
+        },
+        {
+            "stage": "02  ·  Tres imágenes detectadas, tres modelos",
+            "activeModels": 3,
+            "selectedModel": "Ninguno",
+            "panelTitle": "Selecciona un modelo"
+        },
+        {
+            "stage": "03  ·  Tocar Greninja muestra su ficha",
+            "activeModels": 3,
+            "selectedModel": "Greninja",
+            "panelTitle": "Greninja"
+        },
+        {
+            "stage": "04  ·  Tocar la paleta cambia los cinco datos",
+            "activeModels": 3,
+            "selectedModel": "Paleta Payaso",
+            "panelTitle": "Paleta Payaso"
+        },
+        {
+            "stage": "05  ·  Tocar Miku muestra su información",
+            "activeModels": 3,
+            "selectedModel": "Hatsune Miku",
+            "panelTitle": "Hatsune Miku"
+        },
+        {
+            "stage": "06  ·  Se pierde otra imagen; Miku sigue seleccionada",
+            "activeModels": 2,
+            "selectedModel": "Hatsune Miku",
+            "panelTitle": "Hatsune Miku"
+        },
+        {
+            "stage": "07  ·  Se pierde Miku: modelo oculto y ficha original",
+            "activeModels": 1,
+            "selectedModel": "Ninguno",
+            "panelTitle": "Selecciona un modelo"
+        },
+        {
+            "stage": "08  ·  Miku vuelve sin duplicar el modelo",
+            "activeModels": 2,
+            "selectedModel": "Ninguno",
+            "panelTitle": "Selecciona un modelo"
+        },
+        {
+            "stage": "09  ·  La ficha se puede consultar de nuevo",
+            "activeModels": 2,
+            "selectedModel": "Hatsune Miku",
+            "panelTitle": "Hatsune Miku"
+        },
+        {
+            "stage": "10  ·  Retirar la imagen también reinicia la ficha",
+            "activeModels": 1,
+            "selectedModel": "Ninguno",
+            "panelTitle": "Selecciona un modelo"
+        }
+    ]
+}

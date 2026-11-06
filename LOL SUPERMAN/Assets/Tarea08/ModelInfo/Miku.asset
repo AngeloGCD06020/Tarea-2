@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ad28d1917cef8449a0d2caef8fdd866, type: 3}
+  m_Name: Miku
+  m_EditorClassIdentifier: Assembly-CSharp::LolSuperman.Tarea08.ModelInfo
+  modelName: Hatsune Miku
+  description: 'Modelo de Hatsune Miku, personaje virtual de cabello turquesa.
+
+    Puedes
+    seleccionarlo mientras su imagen permanece en seguimiento.'
+  category: Personaje virtual
+  level: 5
+  icon: {fileID: 21300000, guid: adaa93d111bcb7b4b8e8171a4f393a8e, type: 3}
